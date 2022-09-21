@@ -1,0 +1,17 @@
+{
+    "name": "ramaadi/karyawanapp",
+    "description": "no",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ramaadi\\Karyawanapp\\": "src/"
+        }
+    },
+    "require": {
+        "devcoder-xyz/php-router": "^1.2"
+    },
+    "require-dev": {
+        "spatie/ignition": "^1.4"
+    }
+}
